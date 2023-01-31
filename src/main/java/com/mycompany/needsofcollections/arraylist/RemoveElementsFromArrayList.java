@@ -28,10 +28,10 @@ public class RemoveElementsFromArrayList {
         
         //remove()
         f1Teams.remove(2);
-        System.out.println("F1 team removed at position 2" + f1Teams);
+        System.out.println("F1 team removed at index 2" + f1Teams);
 
         f1Teams.remove("Red Bull");
-        System.out.println("F1 team removed at position 1" + f1Teams);
+        System.out.println("F1 team removed at index 1" + f1Teams);
 
         //removeAll()
         //Remove items using a given Collection
@@ -45,7 +45,7 @@ public class RemoveElementsFromArrayList {
         System.out.println(f1Teams);
         
         //clear() erase all elements on the ArrayList
-        f1Teams.clear();
+        f1Teams.clear();    
         System.out.println(f1Teams);
         
         
