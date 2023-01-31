@@ -17,7 +17,14 @@ public class ArrayListClassExample {
         //create arrayList object (parameterless)
         List<String> fruits = new ArrayList<>();
         
-        fruit.add("Banana");
+        fruits.add("Banana");
+        fruits.add("Orange");
+        fruits.add("Mange");
+        fruits.add("Apple");
+        
+        System.out.println(fruits);
+        
+        
         
     }
 }
