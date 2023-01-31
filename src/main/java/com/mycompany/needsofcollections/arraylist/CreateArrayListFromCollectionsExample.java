@@ -26,6 +26,8 @@ public class CreateArrayListFromCollectionsExample {
         
         List<Integer> firstTenPrimeNumbers = new ArrayList<>(firstFivePrimeNumbers);
         
+        //How to add all elements from an existing colleciton to the
+        //new ArrayLlst using addAll() method.
         List<Integer> nextFivePrimeNumbers = new ArrayList<>();
         nextFivePrimeNumbers.add(13);
         nextFivePrimeNumbers.add(17);
