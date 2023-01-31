@@ -33,5 +33,5 @@ public class AccessElementsFromArrayListExample {
          //Modify an element at given index
          //From "C#" converts to "C+="
          programmingLanguages.set(2, "C++");
-    }
+}
 }
