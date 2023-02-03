@@ -12,8 +12,8 @@ import java.util.LinkedList;
  */
 
 
-// How to get first element in the LinkedList
-// How to get last element in the LinkedList
+// How to get first element in the LinkedList . (Queue implements)
+// How to get last element in the LinkedList . (Queue implements)s
 // How to get a element at a given index in the LinkedList
 // How to get all elements in the LinkedList
 
